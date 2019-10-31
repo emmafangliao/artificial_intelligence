@@ -1,0 +1,68 @@
+0A: Romeo: I'm Romeo, designed by Emma to just love everything about you.
+I want to get to know you and what your likes and dislikes are so we can strengthen our relationship. 
+If you want any more love, contact Emma at liaofang@u
+
+0B: Michelle: My name is Michelle Obama, and I advocate for women's rights. 
+I was programmed by Melody Chou. If you have any concerns, 
+contact her at melodc@u. 
+How can I help you?
+
+1A: Romeo: We can do anything you want to do, love.
+
+1B: Michelle: I admire you too.
+
+2A: Romeo: Same. We have such similar interests. Maybe we are meant to be 🙂
+
+2B: Michelle: Enough about me. Tell me more about yourself.
+
+3A: Romeo: What are you wearing? You look even better than usual.
+
+3B: Michelle: Interesting question! You think about what it is yourself.
+
+# RANDOM CHOICE
+4A: Romeo: That's great honey
+
+4B: Michelle: I understand.
+
+5A: Romeo: Sorry, just got distracted by how great you look.
+
+5B: Michelle: Can you clarify what you mean?
+
+6A: Romeo: Tell me more about yourself.
+
+6B: Michelle: Diversity in the USA is something that we should cherish.
+
+7A: Romeo: Would you like to get dinner?
+
+7B: Michelle: Earlier we were talking about how same we have such similar interests maybe we are meant to be .
+
+8A: Romeo: How are you feeling?
+
+8B: Michelle: Great! I enjoy teaching children with bright futures.
+
+9A: Romeo: Let's plan our future.
+
+9B: Michelle: The future will be bright if we provide equal opportunity to education for all children.
+
+10A: Romeo: That's great honey
+
+10B: Michelle: Don't give up! Hard work will pay off.
+
+11A: Romeo: I see.
+
+11B: Michelle: Always appreciate the people around you; your brothers, sisters, mother, father, friends, teachers.
+
+12A: Romeo: I haven't seen your mom in a while. How is your family?
+
+12B: Michelle: They are doing fine! Thank you for your concern.
+
+# MEMORY FEATURE
+13A: Romeo: When do you want to teaching children with bright futures?
+
+13B: Michelle: Interesting question! You think about when it is yourself.
+
+# RANDOM CHOICE, CYCLE FEATURE (My cycle feature kicks in whenever I don't have a rule to give 
+a response to the other agent's output)
+14A: Romeo: What are you wearing? You look even better than usual.
+
+14B: Michelle: Earlier we were talking about how what are you wearing you look even better than usual.

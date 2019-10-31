@@ -1,0 +1,46 @@
+#QUESTION 1
+five_x_cubed_plus_2(3)
+#returns 137
+
+five_x_cubed_plus_2(20)
+#returns 40002
+
+five_x_cubed_plus_2(0)
+#returns 2
+
+#QUESTION 2
+triple_up([2, 5, 1.5, 100, 3, 8, 7, 1, 1, 0, -2])
+#returns [[2, 5, 1.5], [100, 3, 8], [7, 1, 1], [0, -2]]
+
+
+triple_up([2,3,4,5,5,6,7,7,8,9,-1,-2,-3,-4,-5,-6,-7,-8,-9])
+#returns [[2, 3, 4], [5, 5, 6], [7, 7, 8], [9, -1, -2], [-3, -4, -5], [-6, -7, -8], [-9]]
+
+triple_up([2,"three",4,5])
+#returns[[2, 'three', 4], [5]]
+
+
+
+#QUESTION 3
+mystery_code("abc Iz th1s Secure? n0, no, 9!")
+#returns VWX dU OC1N nZXPMZ? I0, IJ, 9!
+
+mystery_code("Hi")
+#returns cD
+
+mystery_code("Hi my name is Emma and i live on 21st Avenue NE in Seattle :)")
+#returns cD HT IVHZ DN zHHV VIY D GDQZ JI 21NO vQZIPZ iz DI nZVOOGZ :)
+
+
+
+#QUESTION 4
+future_tense(['Life', 'is', 'good', 'now'])
+#returns ['Life', 'will', 'be', 'good', 'tomorrow']
+
+future_tense(['Already', 'be', 'in', 'future', 'tense'])
+#returns ['Already', 'be', 'in', 'future', 'tense']
+
+future_tense(['I', 'went', 'to', 'KFC'])
+#returns ['I', 'will', 'go', 'to', 'KFC']
+
+

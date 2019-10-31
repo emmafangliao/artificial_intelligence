@@ -1,0 +1,399 @@
+
+Welcome to ItrDFS
+Initial State:
+
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+
+len(OPEN)=1; len(CLOSED)=0; COUNT = 0
+OPEN is now: 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=2; len(CLOSED)=1; COUNT = 1
+OPEN is now: 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=2; len(CLOSED)=2; COUNT = 2
+OPEN is now: 
+ Number of Foxes on left:0
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=3; len(CLOSED)=3; COUNT = 3
+OPEN is now: 
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=3; len(CLOSED)=4; COUNT = 4
+OPEN is now: 
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=3; len(CLOSED)=5; COUNT = 5
+OPEN is now: 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:1
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=4; len(CLOSED)=6; COUNT = 6
+OPEN is now: 
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=3; len(CLOSED)=7; COUNT = 7
+OPEN is now: 
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:0
+ boat is on the left.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=2; len(CLOSED)=8; COUNT = 8
+OPEN is now: 
+ Number of Foxes on left:0
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+, 
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+len(OPEN)=2; len(CLOSED)=9; COUNT = 9
+Congratulations!
+Solution path: 
+
+ Number of Foxes on left:1
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:0
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+
+
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+
+ Number of Foxes on left:1
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:0
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+
+
+ Number of Foxes on left:0
+ Number of Chicken on left:0
+ Number of Grain on left:1
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:1
+    Number of Grain on right:0
+    Number of Farmer on right:1
+ boat is on the right.
+
+
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:1
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:0
+    Number of Farmer on right:0
+ boat is on the left.
+
+
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+
+
+ Number of Foxes on left:0
+ Number of Chicken on left:1
+ Number of Grain on left:0
+ Number of Farmer on left:1
+
+   Number of Foxes on right:1
+    Number of Chicken on right:0
+    Number of Grain on right:1
+    Number of Farmer on right:0
+ boat is on the left.
+
+
+ Number of Foxes on left:0
+ Number of Chicken on left:0
+ Number of Grain on left:0
+ Number of Farmer on left:0
+
+   Number of Foxes on right:1
+    Number of Chicken on right:1
+    Number of Grain on right:1
+    Number of Farmer on right:1
+ boat is on the right.
+
+Length of solution path found: 7 edges
+9 states expanded.
+MAX_OPEN_LENGTH = 4
